@@ -1,1 +1,1 @@
-Hello! My name is Tomiris. Now i'm starting to work with GitHub.
+Hello! My name is Tomiris. Now i'm starting to work with GitHub :)
